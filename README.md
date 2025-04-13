@@ -1,2 +1,4 @@
 # ECE412-ECE1396
  Analog Signal Processing Circuit
+
+ This course will provide students with an overview of continuous-time and discrete-time signal processing techniques, and the analysis and design of analog and mixed-signal circuit building blocks used in modern electronic systems. Topics covered include: analysis, specification, simulation, and design of continuous-time filters with linear transconductors and op-amps; phase-domain model, noise model, and design methodology for low phase noise Phase Lock Loops and associated building blocks (VCO, phase-frequency detector, charge pump); discrete-time signal analysis using z-transform; discrete-time filter design based on switched capacitors; as well as fundamentals, architectures, building blocks, and characterization techniques for digital-to-analog and analog-to-digital converters.
